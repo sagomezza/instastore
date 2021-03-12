@@ -31,5 +31,5 @@ el mapa, es mucho más exacto y no requiere de permisos de ubicación,
 pero añade un paso extra en el uso del servicio.
 R:/ Cualquiera de los 2 metodos es valido para este ejercicio, escoger por uno o el otro depende más de lo que veas mejor para la solución.
 
-# Stimated time
-Considering 1 day as 8 to 10 hours, I stimate a max time of 20 hours. Starting from 12th of Marcho 2021 after 6 P.M (5 hours)
+# Estimated time
+Considering 1 day as 8 to 10 hours, I estimate a max time of 20 hours. Starting from 12th of Marcho 2021 after 6 P.M (5 hours)
